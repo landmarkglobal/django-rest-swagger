@@ -32,10 +32,10 @@ setup(
     install_requires=[
         'django>=1.5',
         'djangorestframework>=2.3.5',
-        'unipath>=1.0'
+        'Unipath>=1.0'
     ],
     dependency_links=[
-        'https://github.com/landmarkglobal/Unipath/tarball/master#egg=unipath-1.0',
+        'https://github.com/landmarkglobal/Unipath/tarball/master#egg=Unipath-1.0',
     ],
 
     url='http://github.com/marcgibbons',
