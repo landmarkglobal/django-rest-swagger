@@ -34,9 +34,6 @@ setup(
         'djangorestframework>=2.3.5',
         'Unipath>=1.0'
     ],
-    dependency_links=[
-        'https://github.com/landmarkglobal/Unipath/tarball/master#egg=Unipath-1.0',
-    ],
 
     url='http://github.com/marcgibbons',
     author='Marc Gibbons',
